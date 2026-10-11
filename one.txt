@@ -1,2 +1,6 @@
 one
 HELLO
+
+New Feature
+
+Adding dark mode functionality
